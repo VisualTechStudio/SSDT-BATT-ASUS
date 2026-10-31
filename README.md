@@ -22,5 +22,5 @@
 
 | Comment | Enabled | Find | Replace |
 | :--- | :---: | :--- | :--- |
-| `Battery: rename _BST to XBST (DSDT only) - SSDT-BATT provides new _BST` | ✅ `True` | `5F425354`| `58425354`|
-| `Battery: rename _PSR to XPSR (DSDT only) - SSDT-BATT provides clean AC detect` | ✅ `True` | `5F505352` | `58505352`|
+| `Battery: rename _BST to XBST (DSDT only) - SSDT-BATT provides new _BST` | `True` | `5F425354` | `58425354` |
+| `Battery: rename _PSR to XPSR (DSDT only) - SSDT-BATT provides clean AC detect` | `True` | `5F505352` | `58505352` |
