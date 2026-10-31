@@ -1,5 +1,5 @@
 <div align="center">
-             <h1>SSDT-BATT-ASUSx</h1>
+             <h1>SSDT-BATT-ASUS</h1>
              Fixing battery and charging status for ASUS AMD (TUF/TX series) laptops in Hackintosh
              <br>
              <br>
